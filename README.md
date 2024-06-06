@@ -1,0 +1,2 @@
+# scripttest
+repo for javascript
